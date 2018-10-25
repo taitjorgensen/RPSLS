@@ -9,6 +9,7 @@ namespace RPSLS
     class Human : Player
     {
         //member variable
+        public string playerName;
 
 
         //constructor
